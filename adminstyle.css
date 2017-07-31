@@ -1,0 +1,39 @@
+body {
+  background-color: #2f4050;
+}
+
+.navbar-nav li {
+  font-weight: bolder;
+  font-size: 1em;
+}
+
+.line {
+  margin-top: -20px;
+}
+
+.col-sm-10 {
+  background-color: #ffffff;
+}
+
+#side-menu a {
+  color: #9fb1c2;
+}
+
+#side-menu .active a {
+  color: #ffffff;
+  background-color: #27aae1;
+  font-weight: bold;
+}
+
+#side-menu a:hover {
+  color: #ffffff;
+  background-color: #lab934;
+  font-weight: bold;
+  display: block;
+}
+
+#footer {
+  background-color: #eeeeee;
+  text-align: center;
+  color: #000000;
+}
